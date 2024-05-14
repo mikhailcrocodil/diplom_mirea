@@ -1,0 +1,24 @@
+{
+  "header": {
+    "logo": "米雷亚"
+  },
+  "inputs": {
+    "search": "輸入關鍵字進行搜尋"
+  },
+  "pageTitle": {
+    "my_courses": "我的课程"
+  },
+  "auth": {
+    "button_auth": "认证"
+  },
+  "dropdown": {
+    "profile": "个人资料",
+    "courses": "我的课程",
+    "logout": "登出"
+  },
+  "signIn": {
+    "title": "登录",
+    "email_login": "输入邮箱/登录",
+    "password": "输入密码"
+  }
+}

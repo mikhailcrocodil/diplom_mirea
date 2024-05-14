@@ -1,0 +1,24 @@
+{
+  "header": {
+    "logo": "mirea"
+  },
+  "inputs": {
+    "search": "Іздеу үшін кілт сөздерді енгізіңіз"
+  },
+  "pageTitle": {
+    "my_courses": "Менің курстарым"
+  },
+  "auth": {
+    "button_auth": "Кіру"
+  },
+  "dropdown": {
+    "profile": "Профиль",
+    "courses": "Менің курстарым",
+    "logout": "Шығу"
+  },
+  "signIn": {
+    "title": "Кіру",
+    "email_login": "Email/Login енгізіңіз",
+    "password": "Құпия сөзді енгізіңіз"
+  }
+}

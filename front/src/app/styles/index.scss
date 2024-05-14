@@ -1,0 +1,65 @@
+@import "variables/global";
+@import "reset";
+@import "themes/dark";
+@import "themes/light";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--font-family-main);
+  font-weight: 400;
+
+}
+
+.app {
+  font-size: var(--font-size-main);
+  background: var(--bg-color);
+  color: var(--primary-color);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding: 0 122px;
+}
+
+input[type=file]::file-selector-button {
+  display: none;
+}
+
+.toast {
+  width: 3402px;
+}
+
+.Mui-error {
+  color: #D32F2F !important;
+  & .Mui-focused {
+    color: #D32F2F !important;
+  }
+}
+
+body::-webkit-scrollbar {
+  width: 4px;
+}
+body::-webkit-scrollbar-track {
+  background: #131313;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #8f8786;
+  border-radius: 20px;
+  border: 3px solid #8f8786;
+}
+
+.link__active {
+  color: #45489a !important;
+}
+
+.link__not {
+  color: var(--primary-color) !important;
+}

@@ -1,0 +1,24 @@
+{
+  "header": {
+    "logo": "mirea"
+  },
+  "inputs": {
+    "search": "Барои ҷустуҷӯ калимаҳои калидиро ворид кунед"
+  },
+  "pageTitle": {
+    "my_courses": "Дарсҳои ман"
+  },
+  "auth": {
+    "button_auth": "Вуруд"
+  },
+  "dropdown": {
+    "profile": "Профил",
+    "courses": "Дарсҳои ман",
+    "logout": "Баромадан"
+  },
+  "signIn": {
+    "title": "Вуруд",
+    "email_login": "Email/Login ро ворид кунед",
+    "password": "Калидро ворид кунед"
+  }
+}

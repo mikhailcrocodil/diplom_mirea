@@ -1,0 +1,35 @@
+{
+  "header": {
+    "logo": "mirea"
+  },
+  "inputs": {
+    "search": "Enter keywords to search"
+  },
+  "pageTitle": {
+    "my_courses": "My courses"
+  },
+  "auth": {
+    "button_auth": "Auth"
+  },
+  "dropdown": {
+    "profile": "Profile",
+    "courses": "My courses",
+    "logout": "Sign Out"
+  },
+  "signIn": {
+    "title": "Sign In",
+    "email_login": "Enter Email/Login",
+    "password": "Enter the password"
+  },
+  "modal": {
+    "title": {
+      "edit_profile": "Edit profile"
+    },
+    "file_upload": "Drag and drop or browse your photo to upload"
+  },
+  "labels": {
+    "email": "Email",
+    "country_city": "Country, city",
+    "timezone": "Timezone"
+  }
+}

@@ -1,0 +1,11 @@
+.Header {
+  background: var(--bg-header-color);
+}
+
+.Header_content {
+  padding: 12px 0;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

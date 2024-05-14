@@ -1,0 +1,24 @@
+{
+  "header": {
+    "logo": "mirea"
+  },
+  "inputs": {
+    "search": "Qidirish uchun kalit so'zlarni kiriting"
+  },
+  "pageTitle": {
+    "my_courses": "Mening kurslarim"
+  },
+  "auth": {
+    "button_auth": "Kirish"
+  },
+  "dropdown": {
+    "profile": "Profil",
+    "courses": "Mening kurslarim",
+    "logout": "Chiqish"
+  },
+  "signIn": {
+    "title": "Kirish",
+    "email_login": "Email/Login kiriting",
+    "password": "Parolni kiriting"
+  }
+}
